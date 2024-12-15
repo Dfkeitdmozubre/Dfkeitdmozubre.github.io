@@ -1,0 +1,65 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: palegoldenrod;
+}
+header h1 {
+
+    color: rgb(36, 40, 249);
+    text-align: center;
+    font-size: 45px;
+}
+header p{
+    margin-left: 11vw;
+    margin-right:11vw ;
+}
+body h1{
+    text-align: center;
+    margin-left: 10vw;
+    margin-right: 10vw;
+} 
+body h2{
+    text-align: center;
+    margin-left: 10vw;
+    margin-right: 10vw;
+} 
+img{
+    width: 50%;
+    height: auto;
+
+}
+.head{
+    display: flex;
+}
+.head p{
+    font-size: 3vw;
+    margin-left:3vw ;
+    margin-right: 3vw;
+}
+.B img{
+    float: right;
+}
+.B li{
+    font-size: 2.5vw;
+}
+.A p{
+    text-align: center;
+}
+.B p{
+    text-align: center;
+}
+header p{
+    font-size:3vw;
+}
+footer{
+    height: 10vw;
+    background-color: rgb(0, 0, 0);
+}
+footer p{
+    color: grey;
+    text-align: center;
+    line-height: -50%;
+    font-size: 1.5vw;
+}
